@@ -1,20 +1,42 @@
-### Olá eu sou o Leandro Yamada, desenvolvedor python backend 👋
-<div align="center">
-  <a href="https://github.com/LeandroYamada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroYamada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroYamada&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="LeandroYamada-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="LeandroYamada-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="LeandroYamada-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- </div>
-  
-  ##
- 
-<div> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leandro-yamada-54b71733/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-</div>
+# Hello World! 😎
+
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=LeandroYamada6&repo=leandroyamada6&countColorcountColor&countColor=%237B1E7A)
+
+Olá! Eu sou Leandro Yamada, moro em São Paulo - Brasil.
+<br>
+<br>
+
+Meu Objetivo é atuar na área de Back-end em Desenvolvimento Web, com foco na linguagem Python e no Framework Django.
+
+Adoro distribuições Linux, mas no momento estou apaixonado pelo <a href='https://pop.system76.com/' target='_blank'>
+Pop!_OS</a>.
+<br>
+
+### <strong>⌨ Linguagem</strong> ️
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### <strong>🛠️ Ferramentas</strong>
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)
+
+### <strong>🖥️ IDE</strong>
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+
+### <strong>‍💻 SO</strong>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### ✉️ Contato
+
+<a target='_blank' href='mailto:y.japachaos@gmail.com'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a target='_blank' href=''>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a target='_blank' href='https://www.linkedin.com/in/leandro-yamada-54b71733/'>![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
